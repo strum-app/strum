@@ -4,7 +4,7 @@ AGREEMENT TO OUR LEGAL TERMS We are W185 Holdings LLC ("Company," "we," "us," "o
 
 We operate the mobile application Autochord (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
-You can contact us by email at guitarappcontact@gmail.com
+You can contact us by email at strumappcontact@gmail.com
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and W185 Holdings LLC, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -81,7 +81,7 @@ The Content and Marks are provided in or through the Services "AS IS" for your p
 
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: guitarappcontact@gmail.com. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: strumappcontact@gmail.com. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 
 We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
 
@@ -105,7 +105,7 @@ You agree to pay all charges at the prices then in effect for your purchases and
 
 We reserve the right to refuse any order placed through the Services. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or per order. These restrictions may include orders placed by or under the same customer account, the same payment method, and/or orders that use the same billing or shipping address. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.
 
-SUBSCRIPTIONS Billing and Renewal Your subscription will continue and automatically renew unless canceled. You consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge, until such time as you cancel the applicable order. Free Trial We offer a 3-day free trial to new users who register with the Services. The account will be charged according to the user's chosen subscription at the end of the free trial. Cancellation All purchases are non-refundable. 1. Open the App Store app. 2. Click your name. If you can't find your name, click Sign In. 3. Click Account Settings. 4. Scroll to Subscriptions, then click Manage. 5. Next to the subscription, click Edit. 6. Click Cancel Subscription. Your cancellation will take effect at the end of the current paid term. If you have any questions or are unsatisfied with our Services, please email us at guitarappcontact@gmail.com. Fee Changes We may, from time to time, make changes to the subscription fee and will communicate any price changes to you in accordance with applicable law.
+SUBSCRIPTIONS Billing and Renewal Your subscription will continue and automatically renew unless canceled. You consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge, until such time as you cancel the applicable order. Free Trial We offer a 3-day free trial to new users who register with the Services. The account will be charged according to the user's chosen subscription at the end of the free trial. Cancellation All purchases are non-refundable. 1. Open the App Store app. 2. Click your name. If you can't find your name, click Sign In. 3. Click Account Settings. 4. Scroll to Subscriptions, then click Manage. 5. Next to the subscription, click Edit. 6. Click Cancel Subscription. Your cancellation will take effect at the end of the current paid term. If you have any questions or are unsatisfied with our Services, please email us at strumappcontact@gmail.com. Fee Changes We may, from time to time, make changes to the subscription fee and will communicate any price changes to you in accordance with applicable law.
 
 SOFTWARE We may include software for use in connection with our Services. If such software is accompanied by an end user license agreement ("EULA"), the terms of the EULA will govern your use of the software. If such software is not accompanied by a EULA, then we grant to you a non-exclusive, revocable, personal, and non-transferable license to use such software solely in connection with our services and in accordance with these Legal Terms. Any software and any related documentation is provided "AS IS" without warranty of any kind, either express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. You accept any and all risk arising out of use or performance of any software. You may not reproduce or redistribute any software except in accordance with the EULA or these Legal Terms.
 
@@ -163,4 +163,4 @@ CONVERSATION DATA COLLECTION AND USAGE In our ongoing efforts to improve Autocho
 
 CONTACT US In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
-W185 Holdings LLC United States guitarappcontact@gmail.com
+W185 Holdings LLC United States strumappcontact@gmail.com
